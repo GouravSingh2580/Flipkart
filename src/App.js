@@ -1,5 +1,4 @@
 import React, { useReducer } from "react";
-import "./App.css";
 import Layout from "./components/Layout";
 import Home from "./pages/Home/Home";
 
